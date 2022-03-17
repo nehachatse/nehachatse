@@ -1,7 +1,15 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" alt="header" />
+<img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" alt="header" width="100%" />
 
 # Hi there :wave: I'm Neha
-### Currently I'm doing full stack web-development course from masai school
+### Working professionally at Datametica Solutions
+### And part-time purcuing full stack web-development course at Masai School.
+
+### I enjoy web-development alot, look at my few frontend projects I worked during my full stack web-development course at Masai School:
+<ol>
+    <li><a href="https://github.com/nehachatse/sulphur">Unbounce.com<a/></li>
+    <li><a href="https://github.com/mausam-kumar/linkedin-clone">LinkedIn<a/></li>
+    <li><a href="https://github.com/Ashishpal438/pepperfry_clone">Pepperfry<a/></li>
+</ol>
 <p align="center">
     <a href="https://github.com/nehachatse/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nehachatse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
