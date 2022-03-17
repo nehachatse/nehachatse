@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 # Hi there :wave: I'm Neha
 ### Currently I'm doing full stack web-development course from masai school
 <p align="center">
@@ -13,10 +14,20 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehachatse&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
 <br/>
-<h3><a href="www.linkedin.com/in/nehachatse-a12065189">LinkedIn</a></h3>
 <h3><p>mail id: nehachatse02@gmail.com</p></h3>
 
+### Connect with me :smiley:
+<a href="https://twitter.com/neha_c_02">
+  <img align="left" alt="Neha Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://neha-chatse-portfolio.herokuapp.com/">
+  <img align="left" alt="Neha Portfolio" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+</a>
+<a href="www.linkedin.com/in/nehachatse-a12065189">
+  <img align="left" alt="Neha Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
 
+<br/><br/>
 
 
 
