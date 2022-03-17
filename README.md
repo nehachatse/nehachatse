@@ -4,7 +4,7 @@
 ### Working professionally at Datametica Solutions
 ### And part-time purcuing full stack web-development course at Masai School.
 
-### I enjoy web-development alot, look at my few frontend projects I worked during my full stack web-development course at Masai School:
+### I'm very much passionate about Web-development, look at my few frontend projects I worked during my full stack web-development course at Masai School:
 <ol>
     <li><a href="https://github.com/nehachatse/sulphur">Unbounce.com<a/></li>
     <li><a href="https://github.com/mausam-kumar/linkedin-clone">LinkedIn<a/></li>
