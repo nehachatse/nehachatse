@@ -1,8 +1,7 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" alt="header" width="100%" />
 
 # Hi there :wave: I'm Neha
-### Working professionally at Datametica Solutions
-### And part-time purcuing full stack web-development course at Masai School.
+### Working professionally at Elucidata Consulting Pvt. Ltd.
 
 ### I'm very much passionate about Web-development, look at my few frontend projects I worked during my full stack web-development course at Masai School:
 <ol>
